@@ -1,11 +1,4 @@
-h2.intro{
+.intro{
   color: blue;
-}
-
-p.intro{
   font-size: large;
-}
-
-img.intro{
-  color:crimson;
 }
