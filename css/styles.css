@@ -2,3 +2,8 @@
   color: blue;
   font-size: large;
 }
+
+.clicked{
+  border: 2px solid brown;
+  background-color: cyan;
+}
